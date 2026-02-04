@@ -7,7 +7,7 @@ const sendBtn = document.getElementById('sendBtn');
 
 // Initialize Gemini AI
 const ai = new GoogleGenAI({
-    apiKey: "AIzaSyDHYrFZefd1m8EuE9uafWglkSkfbMmREOwjjjjjjjjjjjjjjjjjjjjj" // Replace with your actual API key
+    apiKey: "AIzaSyDHYrFZefd1m8EuE9uafWglkSkfbMmREOwjjjjjjjjjjjjjjjjjjjjjjj" // Replace with your actual API key
 });
 
 // Create chat session
